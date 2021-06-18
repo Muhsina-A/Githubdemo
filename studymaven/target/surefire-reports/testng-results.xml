@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="47" started-at="2021-06-18T10:15:39 IST" finished-at="2021-06-18T10:15:39 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="47" started-at="2021-06-18T10:15:39 IST" finished-at="2021-06-18T10:15:39 IST">
+      <class name="maventesting.studymaven.printTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:maventesting.studymaven.printTest@59ec2012]" name="f" duration-ms="0" started-at="2021-06-18T10:15:39 IST" finished-at="2021-06-18T10:15:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- maventesting.studymaven.printTest -->
+      <class name="maventesting.studymaven.seleniumTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:maventesting.studymaven.seleniumTest@57fffcd7]" name="f" duration-ms="5" started-at="2021-06-18T10:15:39 IST" finished-at="2021-06-18T10:15:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- maventesting.studymaven.seleniumTest -->
+      <class name="maventesting.studymaven.SmokeTest">
+        <test-method status="PASS" signature="f()[pri:0, instance:maventesting.studymaven.SmokeTest@4cf777e8]" name="f" duration-ms="0" started-at="2021-06-18T10:15:39 IST" finished-at="2021-06-18T10:15:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- maventesting.studymaven.SmokeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
